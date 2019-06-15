@@ -4,7 +4,7 @@ The First One,
 30,
 0:9; 0:15; 0:21; 0:27,
 0:0; 0:0; 0:0,
-trap_spike:0:-100:0; trap_spike:0:6:0; trap_spike:1:12:0; trap_spike:1:18:0; trap_spike:0:24:0 |
+trap_spike:0:-100:0; trap_spike:0:6:0; trap_spike:1:12:0; trap_spike:1:18:0; trap_spike:0:24:0; trap_spike:0:0:0; trap_spike:1:0:0 |
 
 1,
 level_easy_peasy,
