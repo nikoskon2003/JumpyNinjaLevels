@@ -3,7 +3,7 @@ level_the_first_one,
 The First One,
 30,
 0:9; 0:15; 0:21; 0:27,
-0:0; 0:0; 0:0,
+-2:7; 2:17; -1:24,
 trap_spike:0:-100:0; trap_spike:0:6:0; trap_spike:1:12:0; trap_spike:1:18:0; trap_spike:0:24:0 |
 
 1,
@@ -11,7 +11,7 @@ level_easy_peasy,
 Easy Peasy,
 30,
 0:9; 0:15; 0:21; 0:27,
-0:0; 0:0; 0:0,
+-2:5; -2:13; 2:23,
 trap_spike:0:-100:0; trap_spike:0:6:0; trap_spike:0:12:0; trap_spike:1:18:0; trap_spike:1:24:0 |
 
 2,
@@ -19,7 +19,7 @@ level_route_me_away,
 Route Me Away,
 27.5,
 0:8.25; 0:13.75; 0:19.25; 0:25.75,
-0:0; 0:0; 0:0,
+2:6.5; 2:15.7; -2:23,
 trap_spike:0:-100:0; trap_spike:1:5.5:0; trap_spike:1:11:0; trap_spike:0:16.5:0; trap_spike:0:22:0 |
 
 3,
@@ -27,7 +27,7 @@ level_minor_problem,
 Minor Problem,
 22,
 0:5.5; 0:8.25; 0:11; 0:13.75; 0:16.5; 0:19.25,
-0:0; 0:0; 0:0,
+-2:6.5; 2:13; 2:20.2,
 trap_spike:0:-100:0; trap_spike:0:5.5:0; trap_spike:0:11:0; trap_spike:1:13.75:0; trap_spike:1:19.25:0 |
 
 4,
@@ -35,7 +35,7 @@ level_think_it_through,
 Think it Through,
 27,
 0:9; 0:12; 0:15; 0:18; 0:21,
-0:0; 0:0; 0:0,
+-1:6; -2:12; 2:22.2,
 trap_spike:0:-100:0; trap_spike:0:6:0; trap_shooter:0:12:30; trap_shooter:1:18:30; trap_spike:1:23:0 |
 
 5,
@@ -43,7 +43,7 @@ level_switch,
 Switch,
 32.5,
 0:7.5; 0:12.5; 0:17.5; 0:22.5; 0:27.5,
-0:0; 0:0; 0:0,
+-2:6; -1:15; 2:29,
 trap_spike:0:-100:0; trap_spike:0:5:0; trap_spike:1:10:0; trap_spike:0:15:0; trap_spike:1:20:0; trap_spike:0:25:0; trap_spike:1:30:0 |
 
 6,
@@ -51,7 +51,7 @@ level_trap_land,
 Trapland,
 20,
 0:5; 0:7.5; 0:10; 0:12.5; 0:15; 0:17.5,
-0:0; 0:0; 0:0,
+-2:9; 0:15; 2:19,
 trap_spike:0:-100:0; trap_fall:0:5:0; trap_fall:0:7.5:1; trap_fall:0:10:2; trap_fall:0:12.5:0; trap_fall:0:15:1; trap_fall:0:17.5:2 |
 
 7,
@@ -59,7 +59,7 @@ level_misplaced,
 Misplaced,
 20,
 1.5:6.2; -2:9; -1.5:13; 2.1:15; -1.7:17.5,
-0:0; 0:0; 0:0,
+-1:6.75; 1:12; -2:16,
 trap_spike:0:-100:0; trap_spike:0:6:0; trap_spike:0:7.5:0; trap_spike:1:10:0; trap_spike:1:12:0; trap_spike:0:15:0; trap_spike:1:17:0 |
 
 8,
@@ -67,7 +67,7 @@ level_inadequacy,
 Inadequacy,
 20,
 -2:8; 2:16,
-0:0; 0:0; 0:0,
+-2:6; -1.2:10.2; 2:14,
 trap_spike:0:-100:0; trap_shooter:0:6:25; trap_spike:0:10:0; trap_shooter:1:14:25; trap_spike:1:18:0 |
 
 9,
@@ -75,7 +75,7 @@ level_trouble_maker,
 Trouble Maker,
 30,
 0:6; 0:9; 0:12; 0:15; 0:18; 0:21; 0:24; 0:27,
-0:0; 0:0; 0:0,
+-1:6; 2:13; 1:24,
 trap_spike:0:-100:0; trap_shooter:0:6:20; trap_spike:0:6:0; trap_shooter:1:12:20; trap_spike:1:12:0; trap_shooter:0:18:20; trap_spike:0:18:0; trap_shooter:1:24:20; trap_spike:1:24:0 |
 
 10,
@@ -83,7 +83,7 @@ level_mirror,
 Mirror,
 35,
 0:9; 0:15; 0:21; 0:27,
-0:0; 0:0; 0:0,
+0:12; 0:18; 0:30,
 trap_spike:0:-100:0; trap_shooter:0:6:25; trap_shooter:1:6:25; trap_spike:0:12:0; trap_spike:1:12:0; trap_fall:0:18:2; trap_spike:0:24:0; trap_spike:1:24:0; trap_shooter:0:30:25; trap_shooter:1:30:25 |
 
 11,
@@ -91,7 +91,7 @@ level_quality,
 Quality,
 20,
 1.5:5.5; -1.5:9.5; 2:12; -2:12; 0:15,
-0:0; 0:0; 0:0,
+-2:6.5; 2:10.5; -2:16,
 trap_spike:0:-100:0; trap_spike:0:5:0; trap_spike:0:5.6:0; trap_shooter:0:6.5:20; trap_spike:1:9:0; trap_spike:1:9.6:0; trap_shooter:1:10.5:20; trap_spike:0:15:0; trap_spike:1:15:0 |
 
 12,
@@ -99,7 +99,7 @@ level_quantity,
 Quantity,
 30,
 0:5; 0:10; 2:10; 0:15; 0:20; -2:20; 0:25,
-0:0; 0:0; 0:0,
+-2:9.2; -2:14.2; 2:24.2,
 trap_spike:0:-100:0; trap_spike:0:5:0; trap_spike:1:5:0; trap_spike:0:10:0; trap_spike:0:15:0; trap_spike:1:15:0; trap_spike:1:20:0; trap_spike:0:25:0; trap_spike:1:25:0 |
 
 13,
@@ -107,15 +107,15 @@ level_take_it_slow,
 Take it Slow,
 30,
 -1.5:5; -1.5:10; 1.5:10; 1.5:15; 1.5:20; -1.5:20; -1.5:25; 1.5:25,
-0:0; 0:0; 0:0,
+-2:10; 2:20; -2:25,
 trap_spike:0:-100:0; trap_shooter:0:5:20; trap_shooter:0:10:20; trap_shooter:1:10:20; trap_shooter:1:15:20; trap_shooter:0:20:20; trap_shooter:1:20:20; trap_shooter:0:25:15; trap_shooter:1:25:15 |
 
 14,
 level_baited,
 Baited,
 30,
-1.2:5; -2:7.5; 2:7.5; 1.2:10; -1.2:15; -2:17.5; 2:17.5; -1.2:20; -1.2:25; 1.2:25,
-0:0; 0:0; 0:0,
+1.2:5; -2:7.5; 2:7.5; 1.2:10; -1.2:15; -2:17.5; 2:17.5; -1.2:20,
+-0.75:7.5; 0.75:17.5; -1.2:25,
 trap_spike:0:-100:0; trap_spike:1:5:0; trap_shooter:1:7.5:20; trap_spike:1:10:0; trap_spike:0:15:0; trap_shooter:0:17.5:20; trap_spike:0:20:0; trap_spike:0:25:0; trap_spike:0:25:0 |
 
 15,
@@ -123,15 +123,15 @@ level_apologies,
 Apologies,
 30,
 0:5; 0:8; 0:11; 0:14; 0:17; 0:20; 0:23; 0:26; 0:29,
-0:0; 0:0; 0:0,
+-1.1:8; 1.1:17; -1.5:30,
 trap_spike:0:-100:0; trap_spike:0:5:0; trap_spike:0:8:0; trap_shooter:1:8:20; trap_spike:0:11:0; trap_spike:1:14:0; trap_shooter:0:17:20; trap_spike:1:17:0; trap_spike:1:20:0; trap_fall:0:22:0; trap_fall:0:24:1; trap_fall:0:26:2; trap_spike:0:28:0; trap_spike:1:28:0 |
 
 16,
 level_narrow_path,
 Narrow Path,
 35,
-2:5.5; -2:7.5; 2:10.5; -2:13; 2:15; -2:18; 2:20.5; -2:23; 2:26; -2:28; 2:30.5; -2:33.5,
-0:0; 0:0; 0:0,
+2:5.25; -2:7.5; 2:10.5; -2:13; 2:15; -2:18; 2:20.5; -2:23; 2:26; -2:28; 2:30.5; -2:33.5,
+-1:5.3; 1.23:17.23; 1:28,
 trap_spike:0:-100:0; trap_spike:0:5:0; trap_spike:0:5.6:0; trap_spike:1:8.6:0; trap_spike:0:9.6:0; trap_spike:1:12.6:0; trap_spike:1:13.2:0; trap_spike:0:16.2:0; trap_spike:1:17.2:0; trap_spike:0:20.2:0; trap_spike:0:20.8:0; trap_spike:1:23.8:0; trap_spike:0:24.8:0; trap_spike:1:27.8:0; trap_spike:1:28.4:0; trap_spike:0:31.8:0; trap_spike:1:32.8:0 |
 
 17,
@@ -139,7 +139,7 @@ level_no_mercy,
 No Mercy,
 30,
 -2:6.5; 0:10; 0:12; 0:14; 2:17.5; 0:21; 0:23; 0:25; 0:27,
-0:0; 0:0; 0:0,
+0:6.5; 0:17.5; -2:28,
 trap_spike:0:-100:0; trap_spike:1:5:0; trap_spike:1:5.6:0; trap_spike:1:6.2:0; trap_spike:1:6.8:0; trap_spike:1:7.4:0; trap_spike:1:8:0; trap_shooter:0:5:22; trap_shooter:0:8:22;
 trap_spike:1:-100:0; trap_spike:0:16:0; trap_spike:0:16.6:0; trap_spike:0:17.2:0; trap_spike:0:17.8:0; trap_spike:0:18.4:0; trap_spike:0:19:0; trap_shooter:1:16:22; trap_shooter:1:19:22;
 trap_spike:0:-101:0; trap_fall:0:10:2; trap_fall:0:12:1; trap_fall:0:14:0; trap_fall:0:21:2; trap_fall:0:23:1; trap_fall:0:25:0; trap_spike:0:27:0; trap_spike:1:27:0 |
@@ -149,7 +149,7 @@ level_underworld,
 Underworld,
 40,
 0:5; 0:10; 0:15; 0:20; 0:25; 0:30; 0:35,
-0:0; 0:0; 0:0,
+-2:9.2; 2:24.2; -2:30.8,
 trap_spike:0:-100:0; trap_spike:0:5:0; trap_shooter:0:5:20; trap_spike:1:5:0; trap_shooter:1:5:20; trap_spike:0:10:0; trap_shooter:0:10:20; trap_spike:1:10:0; trap_shooter:1:10:20; trap_spike:0:15:0; trap_shooter:0:15:20; trap_spike:1:15:0; trap_shooter:1:15:20; trap_fall:0:19.5:2;
 trap_spike:1:-100:0; trap_fall:0:20.5:2; trap_spike:0:25:0; trap_shooter:0:25:20; trap_spike:1:25:0; trap_shooter:1:25:20; trap_spike:0:30:0; trap_shooter:0:30:20; trap_spike:1:30:0; trap_shooter:1:30:20; trap_spike:0:35:0; trap_shooter:0:35:20; trap_spike:1:35:0; trap_shooter:1:35:20 |
 
@@ -157,6 +157,6 @@ trap_spike:1:-100:0; trap_fall:0:20.5:2; trap_spike:0:25:0; trap_shooter:0:25:20
 level_impossible,
 Impossible,
 6,
--2:1; -1:1; 0:1; 1:1; 2:1; -2:2; -1:2; 0:2; 1:2; 2:2; -2:3; -1:3; 0:3; 1:3; 2:3; -2:4; -1:4; 0:4; 1:4; 2:4; -2:5; -1:5; 0:5; 1:5; 2:5,
-0:0; 0:0; 0:0,
+-2:1; 0:1; 2:1; -2:2; -1:2; 0:2; 1:2; 2:2; -2:3; -1:3; 0:3; 1:3; 2:3; -2:4; 0:4; 2:4; -1:5; 0:5; 1:5,
+-1:4; 0:0; 1:4,
 trap_spike:0:-100:0; trap_shooter:0:0:8; trap_shooter:1:0:6
