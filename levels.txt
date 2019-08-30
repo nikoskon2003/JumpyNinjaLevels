@@ -123,7 +123,7 @@ level_apologies,
 Apologies,
 30,
 0:5; 0:8; 0:11; 0:14; 0:17; 0:20; 0:23; 0:26; 0:29,
--1.1:8; 1.1:17; -1.5:30,
+-1.1:8; 1.1:17; -1.5:29,
 trap_spike:0:-100:0; trap_spike:0:5:0; trap_spike:0:8:0; trap_shooter:1:8:20; trap_spike:0:11:0; trap_spike:1:14:0; trap_shooter:0:17:20; trap_spike:1:17:0; trap_spike:1:20:0; trap_fall:0:22:0; trap_fall:0:24:1; trap_fall:0:26:2; trap_spike:0:28:0; trap_spike:1:28:0 |
 
 16,
